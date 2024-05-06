@@ -57,7 +57,3 @@
 - LinkedIn: [Benat-asban](https://www.linkedin.com/in/benat-asban-1177b6303)
 - Gmail: benatasban@gmail.com
 - Portfolio: https://benat-portfolio.netlify.app/
-
-  
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
