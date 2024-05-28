@@ -56,7 +56,7 @@
 ## Get in Touch
 - LinkedIn: [Benat-asban](https://www.linkedin.com/in/benat-asban-1177b6303)
 - Gmail: benatasban@gmail.com
-- Portfolio: https://benat-portfolio.netlify.app/
+- Portfolio: https://benat-asban.netlify.app/
 
 
   ![Profile Views](https://komarev.com/ghpvc/?username=github-BenatAsban)
