@@ -55,6 +55,7 @@
 
 ## Get in Touch
 - LinkedIn: [Benat-asban](https://www.linkedin.com/in/benat-asban-1177b6303)
+- Leetcode: [Benat-asban]([(https://leetcode.com/u/Bensabenat/)
 - Gmail: benatasban@gmail.com
 - Portfolio: https://benat-asban.netlify.app/
 
